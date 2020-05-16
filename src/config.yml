@@ -1,0 +1,14 @@
+#############################################
+#                AstolfoJoin                #
+#############################################
+#                Placeholders               #
+#===========================================#
+# {playerName} - The username of the player #
+#############################################
+
+enable-welcome: true #Show the welcome message when the player joins the server
+welcome-message: hiya {playerName}, read the /rules and have fun!
+
+enable-joinleave: true #Show the join and leave messages when a player joins or leaves the server
+join-message: welkcomeeeeeee {playerName}, to daaaaa servurrrrr ;3
+leave-message: cya laterrrrr {playerName}, come bacc soooooon uwu!!1
